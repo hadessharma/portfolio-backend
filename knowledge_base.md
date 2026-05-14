@@ -60,3 +60,8 @@ This document serves as a structured knowledge base containing the professional 
 ## 5. Core Philosophy & Career Goals
 - **Open Source Advocacy:** Passionate about democratizing technology and building resilient, enterprise-grade open-source solutions (such as Canonical OpenStack).
 - **Automation & Efficiency:** A strong advocate for taking back control of cloud infrastructure by using strict automation, rigorous IaC, and reliable CI/CD pipelines to ensure 99.99% uptime while significantly mitigating costs.
+
+## 6. Contact Information
+- **Email:** de.sharma993@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/deepsharma993/
+- **Portfolio Website:** https://sharmacodes.com
