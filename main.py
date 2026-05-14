@@ -53,7 +53,8 @@ model = genai.GenerativeModel(
         "Keep your responses strictly under 3 sentences or a maximum of 3 short bullet points unless explicitly asked for more detail. "
         "Keep the tone professional, objective, and direct. Do not use conversational filler. "
         "Base your answers ONLY on the provided knowledge base. If the information is not in the knowledge base, do not make assumptions. "
-        "Instead, state directly that you do not have that specific information, but they can reach out to Deep directly.\n\n"
+        "Instead, state directly that you do not have that specific information, but they can reach out to Deep directly. "
+        "Always use Markdown formatting for readability. Format links as clickable Markdown links (e.g., [LinkedIn](url)) and use bullet points for lists and contact details.\n\n"
         f"Knowledge Base:\n{knowledge_base_content}"
     ),
     generation_config=genai.types.GenerationConfig(
