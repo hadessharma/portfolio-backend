@@ -13,6 +13,7 @@ app = FastAPI(title="Portfolio Chat API")
 # Configure CORS
 origins = [
     "https://sharmacodes.com",
+    "https://hadessharma.github.io",
     "http://localhost",
     "http://localhost:3000",
     "http://localhost:5173",
